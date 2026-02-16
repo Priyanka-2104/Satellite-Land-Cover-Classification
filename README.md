@@ -1,4 +1,4 @@
-# Satellite Land Cover Classification using Machine Learning & CNN
+# Satellite-Land-Cover-Classification using Machine Learning & CNN
 
 This project focuses on **Land Use / Land Cover (LULC) Classification** using satellite imagery.
 It uses both **classical Machine Learning** and **Deep Learning (CNN)** approaches to classify
